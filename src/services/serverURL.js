@@ -1,1 +1,1 @@
- export const serverURL = "https://media-jsonserver-dylx.onrender.com";
+ export const serverURL = "https://media-jsonserver-dylx.onrender.com/";
